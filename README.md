@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Added a second API call
+- [x] Added scroll view to details page
 
 ## Video Walkthrough
 
