@@ -2,7 +2,7 @@
 
 Submitted by: **Deonna Owens**
 
-**FlixsterPlus** is a movie browsing app that allows users to browse ... [TODO] 
+**FlixsterPlus** is a movie browsing app that allows you to view people who are currently popular and details about them--such as their biography, birthdate, and birthplace.
 
 Time spent: **6** hours spent in total
 
@@ -33,11 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='Flixster-plus-walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with https://www.macupdate.com/app/mac/49461/licecap  
 
 ## Notes
 I had some issues with making subrequests to the same endpoint.
